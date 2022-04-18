@@ -22,8 +22,8 @@
 // GND - GND
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
-const char* ssid = "machina";
-const char* password = "chickenmini";
+const char* ssid = "yourssid";
+const char* password = "yourpassword";
 
 // LED Strip
 const int numLeds = 96; 
